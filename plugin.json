@@ -1,0 +1,8 @@
+{
+    "name"              :"HelloWorld",
+    "description"       :"Test Application using plenty markets",
+    "namespace"         :"HelloWorld",
+    "author"            :"Jacob",
+    "type"              :"template",
+    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
